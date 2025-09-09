@@ -7,6 +7,7 @@
 .container{
     display: flex;
     align-items: center;
+    background-image: url("../images/194052374-cracked-egg-broken-shell-isolated-vector-illustration.jpg");
 }
 .h1{
     position : relative;
