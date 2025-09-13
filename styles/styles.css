@@ -73,13 +73,14 @@ a {
 }
 
 .corpo {
-    padding-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     padding-left: 80px;
     padding-right: 80px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #FFFDF5;
+    background-color: #F2E6D8;
 }
 
 .texto2 {
@@ -88,10 +89,74 @@ a {
     width: 500px;
     padding-left: 50px;
     padding-right: 50px;
-    border-color: #FFA756;
     font-size: 20px;
-    background-color: #FFA07A;
+    background-color: #FFB37E;
     text-align: center;  
     border-radius: 10px;
     
+}
+
+.titulo2 {
+    text-align: center;
+    padding-top: 20px;
+    background-color: #FFF7E6;
+}
+
+
+
+.parte1 {
+    width: 400px;
+    padding-top: 40px;
+    padding-right: 10px;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.parte2 {
+    width: 400px;
+    padding-top: 40px;
+    padding-left: 10px;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.partes {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    background-color: #FFF7E6;
+}
+
+.gema {
+    background-color: #FFB37E;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.disco {
+    
+    background-color: #ee9644 ;
+    padding: 25px;
+    border-radius: 20px;    
+}
+
+.camara {
+    background-color: #ee9644;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.membrana {
+    background-color: #FFB37E;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.explicado {
+    padding-top: 40px;
 }
