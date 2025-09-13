@@ -127,7 +127,7 @@ a {
 .partes {
     display: flex;
     flex-direction: row;
-    padding-bottom: 40px;
+    padding-bottom: 60px;
     padding-top: 40px;
     background-color: #FFF7E6;
 }
@@ -159,4 +159,24 @@ a {
 
 .explicado {
     padding-top: 40px;
+}
+
+
+
+footer {
+    background-color: #FFD54F;
+    padding: 40px 80px 20px 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ifsp_img {
+    width: 120px;
+    border-radius: 8px;
+}
+
+.nomes {
+    font-size: 20px;
+    
 }
