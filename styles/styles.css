@@ -59,3 +59,39 @@ a {
     margin-right: auto;
 }
 
+
+.texto1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 500px;
+    font-size: 20px;
+    background-color: #FFA756;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.corpo {
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #FFFDF5;
+}
+
+.texto2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-color: #FFA756;
+    font-size: 20px;
+    background-color: #FFA07A;
+    text-align: center;  
+    border-radius: 10px;
+    
+}
