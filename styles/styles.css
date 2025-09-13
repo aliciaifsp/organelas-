@@ -47,6 +47,15 @@ a {
 
 
 .titulo {
+    background-color: beige;
     font-size: 40px;
     padding-top: 50px;
+    
+    padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: auto;
 }
+
