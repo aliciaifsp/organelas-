@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 2000px;
+}
+
+.cabecalho {
+    background-color: #FFD54F;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.direita{
+    display: flex;
+    gap: 35px;
+    padding: 10px 60px;
+    align-items: bottom;
+}
+
+#botao {
+    background-color: #fafafa;
+    padding: 10px;
+    width: 90px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.galinha {
+    padding: 10px 30px;
+    margin-left: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #212121;
+}
+
+#botao:hover {
+    background-color: #ebe9e9;
+}
+
+
+.titulo {
+    background-color: beige;
+    font-size: 40px;
+    padding-top: 50px;
+    
+    padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: auto;
+}
+
+
+.texto1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 500px;
+    font-size: 20px;
+    background-color: #FFA756;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.corpo {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #F2E6D8;
+}
+
+.texto2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    background-color: #FFB37E;
+    text-align: center;  
+    border-radius: 10px;
+    
+}
+
+.titulo2 {
+    text-align: center;
+    padding-top: 20px;
+    background-color: #FFF7E6;
+}
+
+
+
+.parte1 {
+    width: 400px;
+    padding-top: 40px;
+    padding-right: 10px;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.parte2 {
+    width: 400px;
+    padding-top: 40px;
+    padding-left: 10px;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.partes {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    background-color: #FFF7E6;
+}
+
+.gema {
+    background-color: #FFB37E;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.disco {
+    
+    background-color: #ee9644 ;
+    padding: 25px;
+    border-radius: 20px;    
+}
+
+.camara {
+    background-color: #ee9644;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.membrana {
+    background-color: #FFB37E;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.explicado {
+    padding-top: 40px;
+}
+
+
+
+footer {
+    background-color: #FFD54F;
+    padding: 40px 80px 20px 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ifsp_img {
+    width: 120px;
+    border-radius: 8px;
+}
+
+.nomes {
+    font-size: 20px;
+    
+}
